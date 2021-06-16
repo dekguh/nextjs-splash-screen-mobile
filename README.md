@@ -7,5 +7,6 @@ author: I Kadek teguh mahesa
 - Atomic Design
 - Jest
 - React Testing Library
+- react bootstrap icon
 
 ### resource:
