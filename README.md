@@ -10,3 +10,4 @@ author: I Kadek teguh mahesa
 - react bootstrap icon
 
 ### resource:
+- vector from elements
