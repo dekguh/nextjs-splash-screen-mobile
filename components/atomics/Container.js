@@ -9,7 +9,9 @@ const Container = ( { children, ...rest }) => {
 }
 
 const ContainerStyled = styled.div`
-    padding: ${props => props.padding ? props.padding : '20px 20px'};
+    position: relative;
+    padding: ${props => props.padding ? props.padding : '0 0'};
+    min-height: 100vh;
 `;
 
 export default Container
