@@ -1,5 +1,5 @@
 import styles from '../styles/Home.module.css';
-import Container from '../components/atomics/container';
+import Container from '../components/atomics/Container';
 import SplashItem from '../components/molecules/SplashItem';
 
 export default function Home() {
