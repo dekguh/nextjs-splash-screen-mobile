@@ -5,7 +5,7 @@ import SplashSection from '../components/organisms/SplashSection';
 export default function Home() {
   return (
     <>
-      <Container>
+      <Container data-testid='splash-1'>
         <SplashSection />
       </Container>
     </>
